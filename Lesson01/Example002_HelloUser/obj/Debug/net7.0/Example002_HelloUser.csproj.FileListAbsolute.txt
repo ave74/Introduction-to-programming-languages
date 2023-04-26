@@ -1,0 +1,15 @@
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Обучение\Практика ГБ\Intro to programming languages\Lesson01\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
