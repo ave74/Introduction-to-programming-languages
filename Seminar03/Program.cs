@@ -109,4 +109,61 @@ double dist=LongLine(xCoordA, xCoordB, yCoordA, yCoordB);
 
 Console.WriteLine($"Distance AB is {dist:f3}");
 */
+/*
+//Задача 4
+//Напишите программу, которая принимает на вход число N и выдаёт ряд квадратов чисел от 1 до N.
 
+void SquareFinder ()
+{
+    Console.WriteLine("Input number: ");
+    int numberN=Convert.ToInt32(Console.ReadLine());
+
+    if (numberN>0)
+    {
+        int current_i=1;
+        while (current_i<=numberN)
+        {
+            int res=current_i*current_i;
+            Console.Write($"{res}, ");
+            current_i++;
+        }
+        Console.WriteLine("\b\b.");
+    }
+    else Console.WriteLine("Impossible value");
+}
+
+SquareFinder ();
+*/
+
+
+//Задача 4_2
+
+void SquareFinder()
+{
+    Console.WriteLine("Input number: ");
+    int numberN=Convert.ToInt32(Console.ReadLine());
+
+    if (numberN>0)
+    {
+        int current_i=1;
+        while (current_i <= numberN)
+        {
+            int res =Convert.ToInt32(Math.Pow(current_i,2));
+            Console.Write($"{res:f0}, ");
+            current_i++;
+        }
+        Console.WriteLine("\b\b.");
+    }
+    else
+    {
+        int current_i=1;
+        while (current_i >= numberN)
+        {
+            Console.Write(current_i*current_i + ", ");
+            current_i--;
+        }
+        Console.WriteLine("\b\b.");
+    }
+}
+
+SquareFinder();
