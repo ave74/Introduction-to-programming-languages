@@ -21,7 +21,7 @@ int SumDigits(int m, int n)
     return n + SumDigits(m, n + 1);           
 }
 
-int res = SumDigits(2, 6);
+int res = SumDigits(4, 8);
 Console.Write(res);
 */
 
@@ -35,6 +35,6 @@ int Akk(int m, int n)
     else return Akk(m - 1, Akk(m, n - 1));
 }
 
-int res = Akk(5, 0);
+int res = Akk(3, 2);
 Console.Write(res);
 */
